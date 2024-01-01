@@ -4,11 +4,6 @@
 
 ---
 
-### About Me
-🔍 Dedicated and detail-oriented Data Analyst with a strong foundation in data analytics, statistical analysis, and data visualization. Passionate about leveraging technology to drive data-driven decision-making and uncovering insights for businesses.
-
----
-
 ### Socials
 
 🔗 **LinkedIn:** [Prakhar Tripathi](https://www.linkedin.com/in/prakhar-tripathi-/)  
