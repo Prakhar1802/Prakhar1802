@@ -15,8 +15,7 @@
 ## Tech Stack 🚀
 
 🐍 Python &nbsp; 🛢️ MySQL &nbsp; 📊 Data Analysis &nbsp; 📎 Ms Office &nbsp; 📊 Tableau  
-📊 Power-BI &nbsp; 🅾️ C &nbsp; 🅾️🅾️ C++ &nbsp; 🌐 HTML &nbsp; 🎨 CSS &nbsp; 🌐 JavaScript  
-💬 Communication &nbsp; 💡 Problem Solving &nbsp; 🎤 Presentation &nbsp; 🤝 Teamwork
+📊 Power-BI &nbsp; 🅾️ C &nbsp; 🅾️🅾️ C++ &nbsp; 🌐 HTML &nbsp; 🎨 CSS &nbsp; 🌐 JavaScript 
 
 ---
 
