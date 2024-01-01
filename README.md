@@ -12,9 +12,15 @@
 
 ---
 
-### Skills
-**Technical:** Python, MySQL, Data Analysis, Ms Office, Tableau, Power-BI, C, C++, HTML, CSS, JavaScript  
-**SoŌ Skills:** Communication, Problem Solving, Presentation, Teamwork
+# Skills 🚀
+
+## Technical Skills
+🐍 Python &nbsp; &nbsp; 🛢️ MySQL &nbsp; &nbsp; 📊 Data Analysis &nbsp; &nbsp; 📎 Ms Office &nbsp; &nbsp; 📊 Tableau  
+📊 Power-BI &nbsp; &nbsp; 🅾️ C &nbsp; &nbsp; 🅾️🅾️ C++ &nbsp; &nbsp; 🌐 HTML &nbsp; &nbsp; 🎨 CSS &nbsp; &nbsp; 🌐 JavaScript
+
+## Soft Skills
+💬 Communication &nbsp; &nbsp; 💡 Problem Solving &nbsp; &nbsp; 🎤 Presentation &nbsp; &nbsp; 🤝 Teamwork
+
 
 ---
 
