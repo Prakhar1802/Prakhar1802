@@ -17,16 +17,6 @@
 
 ---
 
-### Education
-- 🎓 **Bachelor of Computer Applications (BCA)**
-  - Rajarshi School of Management and Technology, September 2023
-- 🏫 **Higher Secondary School**
-  - Mahatma J.F Public School, April 2020
-- 🏫 **High School**
-  - Mahatma J.F Public School, April 2018
-
----
-
 ### Skills
 **Technical:** Python, MySQL, Data Analysis, Ms Office, Tableau, Power-BI, C, C++, HTML, CSS, JavaScript  
 **SoŌ Skills:** Communication, Problem Solving, Presentation, Teamwork
