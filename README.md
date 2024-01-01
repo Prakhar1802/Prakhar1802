@@ -21,11 +21,18 @@
 ---
 
 
+## Internships🛠️
+
 ### Internships
-- 📊 **Data Analytics Internship** by Accenture in India (6 Months)
-  - Completed data analyst training, equipped with skills in data collection, analysis, visualization, and interpretation.
-- 🌐 **Web Development Internship** by OctaNet (1 Month)
-  - Proficient in HTML, CSS, and JavaScript through hands-on experience and expert guidance.
+<details>
+  <summary>👨‍💼 Data Analytics Internship by Accenture in India (6 Months)</summary>
+  Completed data analyst training equipping skills in data collection, analysis, visualization, and interpretation.
+</details>
+
+<details>
+  <summary>🖥️ Web Development Internship by OctaNet (1 Month)</summary>
+  Proficient in HTML, CSS, and JavaScript through hands-on experience and expert guidance.
+</details>
 
 ---
 
