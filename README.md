@@ -12,12 +12,81 @@
 
 ---
 
-# Skills 🚀
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Skills</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <h1>Skills 🚀</h1>
 
-## Technical Skills
+  <h2>Technical Skills</h2>
+  <div class="skills">
+    <button class="python">Python</button>
+    <button class="mysql">MySQL</button>
+    <button class="data-analysis">Data Analysis</button>
+    <button class="ms-office">Ms Office</button>
+    <!-- Add more buttons for each skill -->
+  </div>
 
-[Python](#) &nbsp; &nbsp; [MySQL](#) &nbsp; &nbsp; [Data Analysis](#) &nbsp; &nbsp; [Ms Office](#) &nbsp; &nbsp; [Tableau](#)  
-[Power-BI](#) &nbsp; &nbsp; [C](#) &nbsp; &nbsp; [C++](#) &nbsp; &nbsp; [HTML](#) &nbsp; &nbsp; [CSS](#) &nbsp; &nbsp; [JavaScript](#)
+  <h2>Soft Skills</h2>
+  <div class="skills">
+    <button class="communication">Communication</button>
+    <button class="problem-solving">Problem Solving</button>
+    <button class="presentation">Presentation</button>
+    <button class="teamwork">Teamwork</button>
+    <!-- Add more buttons for each soft skill -->
+  </div>
+</body>
+</html>
+
+
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+h1, h2 {
+  color: #333;
+}
+
+.skills {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.python {
+  background-color: #3572A5;
+}
+
+.mysql {
+  background-color: #4479A1;
+}
+
+.data-analysis {
+  background-color: #FFD43B;
+}
+
+.ms-office {
+  background-color: #2B579A;
+}
+
+/* Define similar styles for other skills */
+
 
 ---
 
