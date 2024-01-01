@@ -15,12 +15,9 @@
 # Skills 🚀
 
 ## Technical Skills
-🐍 Python &nbsp; &nbsp; 🛢️ MySQL &nbsp; &nbsp; 📊 Data Analysis &nbsp; &nbsp; 📎 Ms Office &nbsp; &nbsp; 📊 Tableau  
-📊 Power-BI &nbsp; &nbsp; 🅾️ C &nbsp; &nbsp; 🅾️🅾️ C++ &nbsp; &nbsp; 🌐 HTML &nbsp; &nbsp; 🎨 CSS &nbsp; &nbsp; 🌐 JavaScript
 
-## Soft Skills
-💬 Communication &nbsp; &nbsp; 💡 Problem Solving &nbsp; &nbsp; 🎤 Presentation &nbsp; &nbsp; 🤝 Teamwork
-
+[Python](#) &nbsp; &nbsp; [MySQL](#) &nbsp; &nbsp; [Data Analysis](#) &nbsp; &nbsp; [Ms Office](#) &nbsp; &nbsp; [Tableau](#)  
+[Power-BI](#) &nbsp; &nbsp; [C](#) &nbsp; &nbsp; [C++](#) &nbsp; &nbsp; [HTML](#) &nbsp; &nbsp; [CSS](#) &nbsp; &nbsp; [JavaScript](#)
 
 ---
 
