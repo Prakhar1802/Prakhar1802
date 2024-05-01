@@ -8,7 +8,7 @@
 
 🔗 **LinkedIn:** [Prakhar Tripathi](https://www.linkedin.com/in/prakhar-tripathi-/)  
 🔗 **GitHub:** [Prakhar1802](https://github.com/Prakhar1802)  
-📂 **Portfolio:** [Prakhar's Portfolio](https://prakhar1802.github.io/Prakhar-0.2/)
+📂 **Portfolio:** [Prakhar's Portfolio](https://prakhar1802.github.io/Portfolio-update-3/)
 
 ---
 
