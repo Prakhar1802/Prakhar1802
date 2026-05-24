@@ -1,4 +1,4 @@
-<div align="center">
+
 
 # Prakhar Tripathi
 ### Healthcare Data Analyst | Turning Clinical Chaos into Actionable Insights
@@ -101,4 +101,3 @@ focus       : [ Data Analysis, Process Automation, Reporting, Visualization ]
 
 <img src="https://komarev.com/ghpvc/?username=Prakhar1802&style=for-the-badge&color=0077B6" alt="Profile views"/>
 
-</div>
