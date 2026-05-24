@@ -1,5 +1,3 @@
-
-
 # Prakhar Tripathi
 ### Healthcare Data Analyst | Turning Clinical Chaos into Actionable Insights
 
@@ -7,7 +5,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B6,00B4D8,90E0EF&height=200&section=header&text=Prakhar%20Tripathi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Healthcare+Data+Analyst&descAlignY=55&descAlign=50" width="100%"/>
 
-</div>
 
 ---
 
@@ -25,8 +22,6 @@ focus       : [ Data Analysis, Process Automation, Reporting, Visualization ]
 ---
 
 ## Skills & Tech Stack
-
-<div align="center">
 
 **Languages & Querying**
 
@@ -46,7 +41,6 @@ focus       : [ Data Analysis, Process Automation, Reporting, Visualization ]
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-</div>
 
 ---
 
@@ -55,8 +49,8 @@ focus       : [ Data Analysis, Process Automation, Reporting, Visualization ]
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Healthcare Incident Management</h3>
-      <p align="center">
+      <h3>Healthcare Incident Management</h3>
+      <p>
         <a href="https://github.com/Prakhar1802/Healthcare-Incident-Management">
           <img src="https://img.shields.io/badge/View%20Project-0077B6?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
@@ -65,8 +59,8 @@ focus       : [ Data Analysis, Process Automation, Reporting, Visualization ]
       <p><code>SQL</code> &nbsp; <code>Power BI</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Google Search Analysis</h3>
-      <p align="center">
+      <h3>Google Search Analysis</h3>
+      <p>
         <a href="https://github.com/Prakhar1802/Google-Search-Analysis">
           <img src="https://img.shields.io/badge/View%20Project-0077B6?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
@@ -91,8 +85,6 @@ focus       : [ Data Analysis, Process Automation, Reporting, Visualization ]
 
 ## Let's Connect
 
-<div align="center">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakhar-tripathi-/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prakhar1802)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prakhartripathi1806@gmail.com)
@@ -100,4 +92,3 @@ focus       : [ Data Analysis, Process Automation, Reporting, Visualization ]
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B6,00B4D8,90E0EF&height=120&section=footer" width="100%"/>
 
 <img src="https://komarev.com/ghpvc/?username=Prakhar1802&style=for-the-badge&color=0077B6" alt="Profile views"/>
-
