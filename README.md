@@ -1,70 +1,81 @@
-<h1 align="center">Hi 👋, I'm Prakhar Tripathi</h1>
-<h3 align="center">Python Programmer | Analyst at Oracle | AI & Automation Enthusiast</h3>
+# Hi, I'm Prakhar Tripathi
+
+> Analyst at Oracle Health · Turning data into decisions, one query at a time.
 
 ---
 
-- 🔭 I’m currently working as an **Analyst at Oracle**
-- 👨‍💻 Passionate about exploring
-- 🌱 Currently learning **NLP**, **GitHub Actions**, and **Machine Learning**
-- 💬 Ask me about **Python, automation, and data analysis**
-- 📫 Reach me at **prakhartripathi1802@gmail.com**
+## About Me
+
+- Currently working as an **Analyst at Oracle Health**
+- Passionate about data analysis, business intelligence, and solving real-world problems with data
+- Based in Bengaluru, India
+- Reach me at: **[prakhartripathi1806@gmail.com](mailto:prakhartripathi1806@gmail.com)**
 
 ---
 
-### 💼 Work Experience
+## Skills & Tech Stack
 
-**🔹 Analyst @ Oracle**  
-*May 2025 – Present*  
-- Analyzing and improving business processes through automation  
-- Working on reporting, data visualization, and process streamlining  
-- Collaborating with global teams to deliver data-driven solutions  
+**Languages & Querying**
 
-**🔹 SME @ Mphasis**  
-*Previous Role*  
-- Led problem management, dispatch analytics, and satisfaction analysis  
-- Created knowledge articles and trained new employees on tools and processes  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
----
+**Data & BI Tools**
 
-### 🛠️ Languages and Tools:
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![VS Code](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code)
-![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=powerbi)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 ---
 
-### 🚀 Featured Projects
+## Projects
 
-🔹 **[AI Voice Assistant](https://github.com/Prakhar1802/your-voice-assistant)**  
-A Python-based voice assistant capable of web searches, sending emails, playing music, and more — powered by NLP and TTS/STT engines.
+> *Coming soon — stay tuned!*
 
-🔹 **[Hotstar-style Portfolio](https://github.com/Prakhar1802/your-hotstar-portfolio)**  
-A creative front-end portfolio inspired by Hotstar UI using HTML, CSS, and JavaScript for a modern carousel experience.
-
-🔹 **[SBI Stock Dashboard – Power BI](https://github.com/Prakhar1802/your-sbi-stock-dashboard)**  
-Interactive Power BI dashboard analyzing SBI stock trends, volumes, and financial insights.
-
-*Let me know if you want help adding demos, images, or hosted links for these.*
+| Project | Description | Tech Used | Link |
+|--------|-------------|-----------|------|
+| Project Name | Short description of what it does | Python, SQL | [View](#) |
+| Project Name | Short description of what it does | Power BI | [View](#) |
 
 ---
 
-### 📚 Currently Learning
+## Work Experience
 
-- Natural Language Processing (NLP)
-- Flask & Streamlit App Deployment
-- GitHub Actions & Automation
-- Building Scalable AI Assistants
+**Analyst — Oracle Health** *(May 2025 – Present)*
+- Analyzing and improving business processes through automation
+- Working on reporting, data visualization, and process streamlining
+- Collaborating with global teams to deliver data-driven solutions
 
----
-
-### 🌐 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/prakhar-tripathi-/)
-- 📫 prakhartripathi1802@gmail.com
+**Subject Matter Expert — Mphasis** *(Previous Role)*
+- Led problem management, dispatch analytics, and satisfaction analysis
+- Created knowledge articles and trained new employees on tools and processes
 
 ---
 
-_Thanks for visiting! Load some code in life 🚀_
+## GitHub Stats
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prakhar1802&show_icons=true&theme=default&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakhar1802&layout=compact&theme=default&hide_border=true" height="150"/>
+</p>
+
+---
+
+## Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakhar-tripathi-/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Prakhar1802)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:prakhartripathi1806@gmail.com)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Prakhar1802&style=flat&color=grey" alt="Profile views"/>
+</p>
